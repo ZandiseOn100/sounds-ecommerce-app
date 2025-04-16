@@ -1,4 +1,4 @@
-import IMAGES from "./images/IMAGES";
+import IMAGES from "../images/IMAGES";
 
 function Gallery() {
     return (
