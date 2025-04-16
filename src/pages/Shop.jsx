@@ -1,5 +1,5 @@
 import React from 'react';
-import IMAGES from "../images/IMAGES";
+import IMAGES from "../images/IMAGES.js";
 
 const products = [
   { id: 1, name: 'On Budget Black Speakers', price: 550, image: IMAGES.image1 },
